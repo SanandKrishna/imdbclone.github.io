@@ -5,7 +5,7 @@ IMDB Cloning App (Made using HTML5, CSS3,JavaScript, OMDBAPI can be obtained her
 
 link for the final product 
 
-ABOUT THIS PROJECT-:
+ABOUT THIS PROJECT-: https://sanandkrishna.github.io/Sanandkrishna45.github.io/
 
   1. In this project I have created a IMDB clone using HTML, CSS, JavaScript, API.
   2. In the IMDB cloning app, there is home page which is Movie Bazaar and favourites page
